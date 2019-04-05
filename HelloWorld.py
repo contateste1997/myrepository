@@ -1,1 +1,1 @@
-print "Hello World!"
+print "Meu Deus, isso é incrível!"
